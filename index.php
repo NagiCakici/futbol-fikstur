@@ -52,7 +52,7 @@ for ($i = 1; $i <= ($n - 1); $i++)//hafta
 }
 
 function rnd(){
-    return rand(1,5);
+    return rand(0,5);
 
 }
 
